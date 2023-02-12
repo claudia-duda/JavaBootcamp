@@ -1,0 +1,17 @@
+Computational thinking is an approach to solving problems and understanding technology in an efficient and effective manner. Some of the important points of computational thinking include:
+
+Decomposition: Dividing a complex problem into smaller, more manageable parts.
+
+Abstraction: Finding and representing the most important information from a problem to simplify it.
+
+Pattern recognition: Identifying relationships, trends, and connections between information to better understand a problem.
+
+Algorithms: Structured and logical steps for solving a problem.
+
+Modeling: Creating simplified representations of complex systems to better understand them.
+
+Testing and debugging: Checking and correcting errors in algorithms and models to ensure they work properly.
+
+Generalization and generalization: Applying solutions to similar problems to problems already solved.
+
+Collaborative computing: Working with others to solve complex problems and share knowledge.
